@@ -4,7 +4,7 @@
 |---|---|---|
 | JJ-MM-YYYY | Test écrit #1 | 12.5% |
 | JJ-MM-YYYY | Test écrit #2 | 12.5% |
-|   | Labos test | 25% |
+|   | Labos notés | 25% |
 |   | Examen | 50% |
 
 # Informations générales pour le cours
@@ -20,4 +20,4 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 # Activités cours/labo
 | Date du cours/labo | Activité | Commentaire |
 |---|---|---|
-|JJ-MM-AAAA C | Présentation et introduction |  |
+|20210222 C | Présentation et introduction |  |
