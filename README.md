@@ -21,3 +21,4 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 | Date du cours/labo | Activité | Commentaire |
 |---|---|---|
 |20210222 C | Présentation et introduction |  |
+|20210222 L | Setup, Labo01, Labo02 |  |
