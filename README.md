@@ -24,3 +24,5 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210222 L | Setup, Labo01, Labo02 |  |
 |20210301 C | Création fichier texte |  |
 |20210301 L | Labo02 |  |
+|20210304 C | écriture dans un fichier texte |  |
+| | écriture dans un fichier texte au format CSV |  |
