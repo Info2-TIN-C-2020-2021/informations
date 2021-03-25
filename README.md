@@ -31,3 +31,5 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210315 C | structures |  |
 |20210315 L | Labo03 |  |
 |20210318 C | lecture entête fichier binaire wav | |
+|20210322 C |  fichier binaire  | |
+|20210322 L | Labo04 |  |
