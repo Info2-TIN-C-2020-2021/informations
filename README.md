@@ -34,6 +34,7 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210322 C |  fichier binaire  | |
 |20210322 L | Labo04 |  |
 |20210329 C | Pointeurs  | |
+|20210329 L | Labo04 |  |
 |20210401 C | Révision pour TE1: Cat's hunting |
 |20210412 C | TE1 |
 |20210412 L | Labo05 |
