@@ -39,4 +39,4 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210412 C | TE1 |
 |20210412 L | Labo05 |
 |20210419 C | Allocation dynamique |
-|20210419 L | Labo05 |
+|20210419 L | Labo05 | livraison repoussée au 9 mai 2021 |
