@@ -43,5 +43,6 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210422 C | Allocation dynamique pour des données issues de fichiers textes |
 |20210426 C | Réallocation dynamique |  |
 |20210426 L | Labo05 |  |
+|20210503 C | Réallocation dynamique (suite) |  |
 
 
