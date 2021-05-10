@@ -45,4 +45,6 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210426 L | Labo05 |  |
 |20210503 C | Réallocation dynamique (suite) |  |
 |20210506 C | Réallocation dynamique (fin) |  |
+|20210510 C | image bitmap - description et accès au contenu |  |
+|20210510 L | Labo06 |  |
 
