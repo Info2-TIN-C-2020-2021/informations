@@ -53,4 +53,5 @@ Lien pour le repository des TD : https://github.com/Info2-TIN-C-2020-2021/TD.
 |20210531 C | Listes de données  + dynamique|  |
 |20210531 L | Labo07 |  |
 |20210603 C | Piles, Queues, listes chainées|  |
+|20210607 C | Listes chainées|  |
 
